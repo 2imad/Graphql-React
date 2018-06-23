@@ -1,0 +1,11 @@
+{
+    "users": [
+    {"id": "23", "firstName": "Bill", "age": 37, "companyId": "1" },
+    {"id": "78", "firstName": "Simon", "age": 32, "companyId": "2" },
+    {"id": "63", "firstName": "Dirk", "age": 15, "companyId": "1" } 
+    ],
+    "companies": [
+        {"id": "1", "name": "Apple", "description": "Phone"  },
+        {"id": "2", "name": "Google", "description": "Search"}
+    ] 
+}
